@@ -1,0 +1,465 @@
+[22:34:12] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.10
+[22:34:12] [ForkJoinPool-1-worker-2/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.21 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:34:12] [main/WARN]: Warnings were found!
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+[22:34:12] [main/INFO]: Loading 104 mods:
+	- appleskin 3.0.6+mc1.21
+	- architectury 13.0.8
+	- betterfurnacesreforged 1.1.2518.0
+	- bettervillage 3.3.0
+	- biomesoplenty 21.1.0.8
+	- bookshelf 21.1.58
+	- brutalbosses 1.21-8.0
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.3
+	- connectedglass 1.1.13
+	- craftedcore 5.8
+	   \-- mixinextras 0.4.1
+	- creativecore 2.13.1
+	   \-- net_neoforged_bus 7.2.0
+	- cupboard 1.21-2.9
+	- dynamiclights 1.8.5+mod
+	- easy_mob_farm 9.7.0
+	- explorify 1.6.2
+	- fabric-api 0.115.5+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.4+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.0+a406e79519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.2+651db51519
+	   |-- fabric-data-generation-api-v1 20.2.28+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabricloader 0.16.10
+	   \-- mixinextras 0.4.1
+	- factory_api 2.2.3.2518.0
+	   \-- team_reborn_energy 4.1.0
+	- fallingtree 1.21.1.7
+	- farmersdelight 1.21.1-3.0.1+refabricated
+	   \-- mm 2.3
+	- framework 0.9.4
+	   |-- com_electronwill_night-config_core 3.7.1
+	   |-- com_electronwill_night-config_toml 3.7.1
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- fusion 1.2.7
+	- glitchcore 2.1.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- gobber2 2.10.28
+	   |-- blue_endless_jankson 1.2.3
+	   \-- pugh_tools 1.8.19
+	- immersive_aircraft 1.2.2+1.21.1
+	   \-- org_mariuszgromada_math_mathparser_org-mxparser 5.2.1
+	- infinitetrading 4.6
+	- ironchest 2.0.4
+	   \-- libgui 11.1.0+1.21
+	        |-- jankson 8.0.0+j1.2.3
+	        |    \-- blue_endless_jankson 1.2.3
+	        \-- libninepatch 1.2.0
+	- java 21
+	- libraryferret 4.0.0
+	- man_of_many_planes 0.2.1+1.21.1
+	- mcwbridges 3.0.0
+	- mcwdoors 1.1.2
+	- mcwfences 1.2.0
+	- mcwfencesbop 1.21-1.1
+	- mcwfurnitures 3.3.0
+	- mcwlights 1.1.1
+	- mcwpaintings 1.0.5
+	- mcwpaths 1.1.0
+	- mcwroofs 2.3.1
+	- mcwstairs 1.0.1
+	- mcwtrpdoors 1.1.4
+	- mcwwindows 2.3.2
+	- minecraft 1.21.1
+	- oceansdelight fdrf-fabric-1.0.2-1.21
+	- onlyhammers 1.21.1-0.3
+	- oreharvester 1.5
+	- prickle 21.1.6
+	- refurbished_furniture 1.0.12
+	- skinshifter 1.3
+	- supermartijn642corelib 1.1.18+a
+	- terrablender 4.1.0.8
+[22:34:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/improved-giggle/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:34:13] [main/INFO]: Compatibility level set to JAVA_21
+[22:34:13] [main/WARN]: Reference map 'connectedglass.mixins.refmap.json' for connectedglass.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:34:14] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:34:14] [main/WARN]: Reference map 'prickle.refmap.json' for prickle.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:34:14] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:34:15] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[22:34:15] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[22:34:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:34:19] [main/INFO]: Gobber Mod Info Message: Max value of attribute.name.generic.armor is currently set to 80.0
+[22:34:27] [main/INFO]: Welcome! ./config/libraryferret_1.properties created and initialized with default value
+[22:34:27] [main/INFO]: Welcome! ./config/bettervillage_1.properties created and initialized with default value
+[22:34:27] [main/WARN]: Config cupboard.json not found, recreating default
+[22:34:27] [main/INFO]: Loaded config for: cupboard.json
+[22:34:27] [main/INFO]: Reflections took 336 ms to scan 1 urls, producing 9 keys and 76 values
+[22:34:29] [main/ERROR]: No data fixer registered for seat
+[22:34:30] [main/INFO]: Initializing Update Checker...
+[22:34:30] [BetterFurnaces Update Checker/INFO]: Starting Update Check...
+[22:34:31] [BetterFurnaces Update Checker/INFO]: Update Check done!
+[22:34:31] [BetterFurnaces Update Checker/INFO]: There is an update for the BetterFurnaces mod!
+[22:34:31] [BetterFurnaces Update Checker/INFO]: Current Version: 1.21.1-1.1.2518.0, newest Version: 1.21.1-1.1.2518.1!
+[22:34:31] [BetterFurnaces Update Checker/INFO]: Download at https://www.curseforge.com/minecraft/mc-mods/better-furnaces-reforged/
+[22:34:31] [main/INFO]: Brutal bosses initialized
+[22:34:31] [main/INFO]: Loading Collective version 8.3.
+[22:34:31] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[22:34:31] [main/INFO]: Initializing Easy Mob Farm (Fabric) ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Debug Manager ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Constants ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Configuration ...
+[22:34:31] [main/INFO]: [Config] Updated configuration path to ./config/easy_mob_farm
+[22:34:31] [main/INFO]: [Config] Creating configuration folder ./config/easy_mob_farm
+[22:34:31] [main/INFO]: [Config] Registering common configuration ...
+[22:34:31] [main/INFO]: [Config] Try creating configuration file ./config/easy_mob_farm/mob_farm.cfg
+[22:34:31] [main/INFO]: [Config] Created configuration file ./config/easy_mob_farm/mob_farm.cfg ...
+[22:34:31] [main/INFO]: [Config] Updating configuration file ./config/easy_mob_farm/mob_farm.cfg  Mob Farm Configuration
+
+ This configuration file allows you to define the general settings for the Mob Farms.
+
+: {progressingRequiresOwnerToBeOnline=false, luckyDropFarmLuckPercentage=95, tier0progressionUpgradeSpeed=0, tier3progressionUpgradeSpeed=9, tier2progressionUpgradeSpeed=6, tier1progressionUpgradeSpeed=3, experienceDropChance=5, speedEnhancementUpgradeSpeed=6}
+[22:34:31] [main/INFO]: [Config] Try creating configuration file ./config/easy_mob_farm/mob_capture_card.cfg
+[22:34:31] [main/INFO]: [Config] Created configuration file ./config/easy_mob_farm/mob_capture_card.cfg ...
+[22:34:31] [main/INFO]: [Config] Updating configuration file ./config/easy_mob_farm/mob_capture_card.cfg  Mob Capture Card Configuration
+
+ This configuration file allows you to define the general settings for the Mob Capture Cards.
+
+ Allow and Deny list
+ -------------------
+ If you want to allow or deny specific mobs, you can use the allow and deny list.
+ Keep in mind that if you add a mob to the allow list, all other mobs will be denied by default.
+ There are two separate lists for kill and fishing drops.
+
+  Example for allow only specific mobs:
+    mobCaptureCardKillDropAllowList=minecraft:zombie,minecraft:skeleton
+    mobCaptureCardKillDropDenyList=
+    mobCaptureCardFishingDropAllowList=minecraft:cod,minecraft:salmon
+    mobCaptureCardFishingDropDenyList=
+
+  Example for deny specific mobs:
+    mobCaptureCardKillDropAllowList=
+    mobCaptureCardKillDropDenyList=minecraft:ender_dragon,minecraft:wither
+    mobCaptureCardFishingDropAllowList=
+    mobCaptureCardFishingDropDenyList=minecraft:squid,minecraft:turtle
+
+
+: {mobCaptureCardFishingDropChance=0.15, mobCaptureCardFishingDropAllowList=, dropMobCaptureCardOnFishing=true, requirePlayerKill=true, mobCaptureCardFishingDropDenyList=, mobCaptureCardKillDropAllowList=, mobCaptureCardKillDropDenyList=, mobCaptureCardKillDropChance=0.1, mobCaptureCardFoilDropChance=0.01, dropMobCaptureCardOnKill=true}
+[22:34:31] [main/INFO]: [Config] Try creating configuration file ./config/easy_mob_farm/mob_capture_card_rarity.cfg
+[22:34:31] [main/INFO]: [Config] Created configuration file ./config/easy_mob_farm/mob_capture_card_rarity.cfg ...
+[22:34:31] [main/INFO]: [Config] Updating configuration file ./config/easy_mob_farm/mob_capture_card_rarity.cfg  Mob Capture Card Rarity Configuration
+
+ This configuration file allows you to define the rarity for the Mob Capture Cards.
+
+ The format is as follows:
+ - <entity_name> = Rarity
+
+ Example:
+ - minecraft:zombie = COMMON
+
+ Supported rarities are:
+  - COMMON
+  - UNCOMMON
+  - RARE
+  - EPIC
+
+: {minecraft:pillager=COMMON, minecraft:zombified_villager=UNCOMMON, minecraft:blaze=RARE, minecraft:skeleton=COMMON, minecraft:elder_guardian=EPIC, minecraft:ravager=RARE, minecraft:squid=COMMON, minecraft:ghast=RARE, minecraft:strider=RARE, minecraft:guardian=RARE, minecraft:cow=COMMON, minecraft:vindicator=RARE, minecraft:magma_cube=RARE, minecraft:spider=COMMON, minecraft:piglin_brute=EPIC, minecraft:creeper=COMMON, minecraft:warden=EPIC, minecraft:wither=EPIC, minecraft:horse=COMMON, minecraft:evoker=UNCOMMON, minecraft:slime=UNCOMMON, minecraft:polar_bear=UNCOMMON, minecraft:cat=COMMON, minecraft:bat=COMMON, minecraft:illusioner=EPIC, minecraft:phantom=RARE, minecraft:zombified_piglin=UNCOMMON, minecraft:witch=COMMON, minecraft:wither_skeleton=EPIC, minecraft:fox=UNCOMMON, minecraft:pig=COMMON, minecraft:llama=UNCOMMON, minecraft:husk=UNCOMMON, minecraft:sheep=COMMON, minecraft:ender_dragon=EPIC, minecraft:shulker=RARE, minecraft:cave_spider=UNCOMMON, minecraft:villager=COMMON, minecraft:enderman=UNCOMMON, minecraft:stray=UNCOMMON, minecraft:chicken=COMMON, minecraft:zombie=COMMON, minecraft:drowned=COMMON, minecraft:wolf=COMMON, minecraft:panda=UNCOMMON}
+[22:34:31] [main/INFO]: [Config] Try creating configuration file ./config/easy_mob_farm/mob_catcher.cfg
+[22:34:31] [main/INFO]: [Config] Created configuration file ./config/easy_mob_farm/mob_catcher.cfg ...
+[22:34:31] [main/INFO]: [Config] Updating configuration file ./config/easy_mob_farm/mob_catcher.cfg  Mob Catcher Configuration
+
+ This configuration file allows you to define the general settings for the Mob Catcher.
+
+ Allow and Deny list
+ -------------------
+ If you want to allow or deny specific mobs, you can use the allow and deny list.
+ Keep in mind that if you add a mob to the allow list, all other mobs will be denied by default.
+ Additionally mobs on the allow list will be catchable even if their size is bigger than the maximum size.
+
+ Each Mob Catcher has it own allow and deny list, so you can define different settings for each Mob Catcher.
+
+  Example for allow only specific mobs:
+    EnduringCaptureNet:AllowList=minecraft:cow,minecraft:sheep,minecraft:chicken
+
+  Example for deny specific mobs:
+    VoidBindingChain:DenyList=minecraft:endermite,minecraft:ender_dragon,minecraft:wither
+
+
+: {EnduringCaptureNet:Enabled=true, VoidBindingChain:MaxEntityHeightToCapture=6.0, EnduringCaptureNet:MaxEntityWidthToCapture=0.9, IronboundContainmentCage:RequiredHealthPercentageToCapture=0.25, EnduringCaptureNet:DenyList=, IronboundContainmentCage:Enabled=true, IronboundContainmentCage:MaxEntityHeightToCapture=2.0, MysticBindingCrystal:AllowList=, IronboundContainmentCage:MaxEntityWidthToCapture=1.5, VoidBindingChain:MaxDurability=16, MysticBindingCrystal:Enabled=true, IronboundContainmentCage:MaxDurability=32, MysticBindingCrystal:MaxEntityWidthToCapture=3.0, MysticBindingCrystal:MaxDurability=32, VoidBindingChain:MaxEntityWidthToCapture=4.0, EnduringCaptureNet:MaxDurability=64, EnduringCaptureNet:AllowList=, VoidBindingChain:AllowList=, IronboundContainmentCage:DenyList=, VoidBindingChain:DenyList=, EnduringCaptureNet:RequiredHealthPercentageToCapture=0.5, MysticBindingCrystal:DenyList=, IronboundContainmentCage:AllowList=, MysticBindingCrystal:MaxEntityHeightToCapture=4.0, MysticBindingCrystal:RequiredHealthPercentageToCapture=0.25, VoidBindingChain:Enabled=true, VoidBindingChain:RequiredHealthPercentageToCapture=0.2, EnduringCaptureNet:MaxEntityHeightToCapture=1.4}
+[22:34:31] [main/INFO]: [Config] Registering server configuration ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Compatibility Handler ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Compat Handler ...
+[22:34:31] [main/INFO]: [Compat Manager] Farmer's Delight mod with id 'farmersdelight' loaded: true
+[22:34:31] [main/INFO]: Register Easy Mob Farm Experience Manager ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Experience Manager ModExperienceManager
+[22:34:31] [main/INFO]: Register Easy Mob Farm Blocks ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Mob Farm Template blocks ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Mob Farm blocks ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Blocks Entities ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Mob Farm block entities ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Block Items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Mob Farm Templates items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Mob Farms items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Mob Capture Card items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Enhancement items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Filter items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Slot upgrade items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Mob Catcher items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Consumables items ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Command register event ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Menu Types ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Menu Types ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Mod Data Components ...
+[22:34:31] [main/INFO]: Easy Mob Farm Data Components ...
+[22:34:31] [main/INFO]: Register Easy Mob Farm Server Event Handler ...
+[22:34:31] [main/INFO]: Initializing FactoryAPI!
+[22:34:32] [main/INFO]: Loaded config farmersdelight-common.json
+[22:34:32] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[22:34:32] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[22:34:32] [main/ERROR]: No data fixer registered for anomaly
+[22:34:32] [main/OFF]: gobber2 config settings json5 not found, creating default
+[22:34:32] [main/OFF]: gobber2 default config created at: ./config/gobber2/gobber_config_settings.json5
+[22:34:33] [main/ERROR]: No data fixer registered for immersive_aircraft:gyrodyne
+[22:34:33] [main/ERROR]: No data fixer registered for immersive_aircraft:biplane
+[22:34:33] [main/ERROR]: No data fixer registered for immersive_aircraft:airship
+[22:34:33] [main/ERROR]: No data fixer registered for immersive_aircraft:cargo_airship
+[22:34:33] [main/ERROR]: No data fixer registered for immersive_aircraft:warship
+[22:34:33] [main/ERROR]: No data fixer registered for immersive_aircraft:quadrocopter
+[22:34:33] [main/ERROR]: No data fixer registered for immersive_aircraft:bullet
+[22:34:33] [main/ERROR]: No data fixer registered for immersive_aircraft:tiny_tnt
+[22:34:33] [main/INFO]: Initialize mod Library Ferret
+[22:34:33] [main/INFO]: Initialized mod Library Ferret
+[22:34:33] [main/ERROR]: No data fixer registered for man_of_many_planes:scarlet_biplane
+[22:34:33] [main/ERROR]: No data fixer registered for man_of_many_planes:economy_plane
+[22:34:33] [main/INFO]: Macaw's Fences - Biomes O Plenty... Loading...
+[22:34:33] [main/INFO]: Macaw's Fences - Biomes O Plenty... Finish...
+[22:34:34] [main/INFO]: Definitely not up to no good
+[22:34:34] [main/INFO]: Registering Items for oceansdelight
+[22:34:34] [main/INFO]: Registering Blocks for oceansdelight
+[22:34:34] [main/INFO]: Registering tabs for oceansdelight
+[22:34:34] [main/INFO]: Config 'onlyhammersconfig' is missing, generating default one...
+[22:34:34] [main/INFO]: [STDOUT]: All 10 have been set properly
+[22:34:34] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[22:34:34] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:34:34] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[22:34:34] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:34:34] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:34:34] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:34:34] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:34:34] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:34:34] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:34:36] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[22:34:36] [main/INFO]: No existing world data, creating new world
+[22:34:38] [Worker-Main-1/INFO]: Register Easy Mob Farm /easy_mob_farm commands for Easy Mob Farm ...
+[22:34:40] [main/INFO]: Loaded 6567 recipes
+[22:34:41] [main/INFO]: Loaded 3691 advancements
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:drownedboss for: minecraft:drowned
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:irongolemboss for: minecraft:iron_golem
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:snowgolemboss for: minecraft:snow_golem
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:zombieboss for: minecraft:zombie
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:skeletonshieldboss for: minecraft:skeleton
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:pillagerboss for: minecraft:pillager
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:vexboss for: minecraft:vex
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:evokerboss for: minecraft:evoker
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:dummyboss for: minecraft:zombie
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:vindicatorboss for: minecraft:vindicator
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:witherskeletonshieldboss for: minecraft:wither_skeleton
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:witherskeletonrangedboss for: minecraft:wither_skeleton
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:cavespiderboss for: minecraft:cave_spider
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:zombietoxicboss for: minecraft:zombie
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:huskboss for: minecraft:husk
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:evokersummoner for: minecraft:evoker
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:archmageboss for: minecraft:wandering_trader
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:guardianboss for: minecraft:guardian
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:endervindicatorboss for: minecraft:vindicator
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:shulkerboss for: minecraft:shulker
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:zoglinboss for: minecraft:zoglin
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:evilchickenboss for: minecraft:chicken
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:blazeboss for: minecraft:blaze
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:witchboss for: minecraft:witch
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:phantomboss for: minecraft:phantom
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:madcowboss for: minecraft:mooshroom
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:rabbitboss for: minecraft:rabbit
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:piglinbruteboss for: minecraft:piglin_brute
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:ghastboss for: minecraft:ghast
+[22:34:41] [main/INFO]: Loaded boss: brutalbosses:strayboss for: minecraft:stray
+[22:34:44] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:34:45] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:34:46] [main/INFO]: Applied 460 biome modifications to 132 of 134 new biomes in 376.0 ms
+[22:34:46] [Server thread/INFO]: [Config] Registering deferred common configuration ...
+[22:34:46] [Server thread/INFO]: [Config] Try creating configuration file ./config/easy_mob_farm/mob_farm_bonus.cfg
+[22:34:46] [Server thread/INFO]: [Config] Created configuration file ./config/easy_mob_farm/mob_farm_bonus.cfg ...
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:witch with a chance of 1 of 15 for 1 minecraft:redstone.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:sheep with a chance of 1 of 5 for 1 minecraft:white_wool.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add monster_plains_cave_farm::1::minecraft:zombie with a chance of 1 of 15 for 1 minecraft:rotten_flesh.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:squid with a chance of 1 of 10 for 1 minecraft:ink_sac.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:blaze with a chance of 1 of 20 for 1 minecraft:blaze_rod.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add iron_golem_farm::0::minecraft:iron_golem with a chance of 1 of 20 for 1 minecraft:iron_ingot.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add ocean_farm::2::minecraft:cod with a chance of 1 of 10 for 1 minecraft:cod.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:parrot with a chance of 1 of 15 for 1 minecraft:feather.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:witch with a chance of 1 of 10 for 1 minecraft:redstone.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:squid with a chance of 1 of 15 for 1 minecraft:ink_sac.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add jungle_farm::1::minecraft:panda with a chance of 1 of 15 for 1 minecraft:bamboo.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:frog with a chance of 1 of 20 for 1 minecraft:slime_ball.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:sheep with a chance of 1 of 10 for 1 minecraft:white_wool.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:chicken with a chance of 1 of 5 for 1 minecraft:egg.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:sheep with a chance of 1 of 15 for 1 minecraft:white_wool.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add iron_golem_farm::1::minecraft:iron_golem with a chance of 1 of 15 for 1 minecraft:iron_ingot.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:frog with a chance of 1 of 5 for 1 minecraft:slime_ball.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:blaze with a chance of 1 of 15 for 1 minecraft:blaze_rod.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add bee_hive_farm::2::minecraft:bee with a chance of 1 of 10 for 1 minecraft:honeycomb.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:husk with a chance of 1 of 15 for 1 minecraft:sand.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:panda with a chance of 1 of 20 for 1 minecraft:bamboo.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add nether_fortress_farm::0::minecraft:magma_cube with a chance of 1 of 20 for 1 minecraft:magma_cream.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:parrot with a chance of 1 of 10 for 1 minecraft:feather.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:frog with a chance of 1 of 10 for 1 minecraft:slime_ball.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:chicken with a chance of 1 of 20 for 1 minecraft:egg.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:blaze with a chance of 1 of 5 for 1 minecraft:blaze_rod.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:chicken with a chance of 1 of 15 for 1 minecraft:egg.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:squid with a chance of 1 of 20 for 1 minecraft:ink_sac.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::1::minecraft:cow with a chance of 1 of 15 for 1 minecraft:leather.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add ocean_farm::0::minecraft:cod with a chance of 1 of 20 for 1 minecraft:cod.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:husk with a chance of 1 of 20 for 1 minecraft:sand.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add monster_plains_cave_farm::0::minecraft:zombie with a chance of 1 of 20 for 1 minecraft:rotten_flesh.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:husk with a chance of 1 of 5 for 1 minecraft:sand.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:rabbit with a chance of 1 of 10 for 1 minecraft:rabbit_hide.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:cow with a chance of 1 of 10 for 1 minecraft:leather.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:panda with a chance of 1 of 5 for 1 minecraft:bamboo.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:squid with a chance of 1 of 5 for 1 minecraft:ink_sac.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add jungle_farm::3::minecraft:parrot with a chance of 1 of 5 for 1 minecraft:feather.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add desert_farm::3::minecraft:rabbit with a chance of 1 of 5 for 1 minecraft:rabbit_hide.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add ocean_farm::1::minecraft:cod with a chance of 1 of 15 for 1 minecraft:cod.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add ocean_farm::3::minecraft:cod with a chance of 1 of 5 for 1 minecraft:cod.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::3::minecraft:cow with a chance of 1 of 5 for 1 minecraft:leather.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add nether_fortress_farm::3::minecraft:magma_cube with a chance of 1 of 5 for 1 minecraft:magma_cream.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add desert_farm::2::minecraft:husk with a chance of 1 of 10 for 1 minecraft:sand.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add bee_hive_farm::3::minecraft:bee with a chance of 1 of 5 for 1 minecraft:honeycomb.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::2::minecraft:slime with a chance of 1 of 10 for 1 minecraft:slime_ball.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:frog with a chance of 1 of 15 for 1 minecraft:slime_ball.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add bee_hive_farm::1::minecraft:bee with a chance of 1 of 15 for 1 minecraft:honeycomb.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:slime with a chance of 1 of 20 for 1 minecraft:slime_ball.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add desert_farm::1::minecraft:rabbit with a chance of 1 of 15 for 1 minecraft:rabbit_hide.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:cow with a chance of 1 of 20 for 1 minecraft:leather.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::2::minecraft:chicken with a chance of 1 of 10 for 1 minecraft:egg.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:slime with a chance of 1 of 5 for 1 minecraft:slime_ball.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add bee_hive_farm::0::minecraft:bee with a chance of 1 of 20 for 1 minecraft:honeycomb.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add jungle_farm::2::minecraft:panda with a chance of 1 of 10 for 1 minecraft:bamboo.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::3::minecraft:witch with a chance of 1 of 5 for 1 minecraft:redstone.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add animal_plains_farm::0::minecraft:sheep with a chance of 1 of 20 for 1 minecraft:white_wool.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:blaze with a chance of 1 of 10 for 1 minecraft:blaze_rod.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add nether_fortress_farm::1::minecraft:magma_cube with a chance of 1 of 15 for 1 minecraft:magma_cream.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add iron_golem_farm::2::minecraft:iron_golem with a chance of 1 of 10 for 1 minecraft:iron_ingot.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add monster_plains_cave_farm::3::minecraft:zombie with a chance of 1 of 5 for 1 minecraft:rotten_flesh.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add desert_farm::0::minecraft:rabbit with a chance of 1 of 20 for 1 minecraft:rabbit_hide.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::0::minecraft:witch with a chance of 1 of 20 for 1 minecraft:redstone.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add iron_golem_farm::3::minecraft:iron_golem with a chance of 1 of 5 for 1 minecraft:iron_ingot.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add monster_plains_cave_farm::2::minecraft:zombie with a chance of 1 of 10 for 1 minecraft:rotten_flesh.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add nether_fortress_farm::2::minecraft:magma_cube with a chance of 1 of 10 for 1 minecraft:magma_cream.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add jungle_farm::0::minecraft:parrot with a chance of 1 of 20 for 1 minecraft:feather.
+[22:34:46] [Server thread/INFO]: [MobFarmBonusConfig] Add swamp_farm::1::minecraft:slime with a chance of 1 of 15 for 1 minecraft:slime_ball.
+[22:34:46] [Server thread/INFO]: [Config] Updating configuration file ./config/easy_mob_farm/mob_farm_bonus.cfg  Mob Farm Bonus Configuration
+
+ This configuration file allows you to define the bonus drops for the Mob Farms.
+
+The format is as follows:
+- <mob_farm_name>::<tier_level>::<entity_type> = <item_name>::<amount>::<chance 1 of x>
+
+Example:
+- bee_hive_farm::0::minecraft:bee = minecraft:honeycomb::1::20
+- bee_hive_farm::1::minecraft:bee = minecraft:honeycomb::1::15
+- bee_hive_farm::2::minecraft:bee = minecraft:honeycomb::1::10
+- bee_hive_farm::3::minecraft:bee = minecraft:honeycomb::1::5
+
+To disable a bonus drop for a default definition, set the amount to 0.
+
+: {swamp_farm::1::minecraft:witch=minecraft:redstone::1::15, animal_plains_farm::3::minecraft:sheep=minecraft:white_wool::1::5, monster_plains_cave_farm::1::minecraft:zombie=minecraft:rotten_flesh::1::15, ocean_farm::2::minecraft:squid=minecraft:ink_sac::1::10, nether_fortress_farm::0::minecraft:blaze=minecraft:blaze_rod::1::20, iron_golem_farm::0::minecraft:iron_golem=minecraft:iron_ingot::1::20, ocean_farm::2::minecraft:cod=minecraft:cod::1::10, jungle_farm::1::minecraft:parrot=minecraft:feather::1::15, swamp_farm::2::minecraft:witch=minecraft:redstone::1::10, ocean_farm::1::minecraft:squid=minecraft:ink_sac::1::15, jungle_farm::1::minecraft:panda=minecraft:bamboo::1::15, swamp_farm::0::minecraft:frog=minecraft:slime_ball::1::20, animal_plains_farm::2::minecraft:sheep=minecraft:white_wool::1::10, animal_plains_farm::3::minecraft:chicken=minecraft:egg::1::5, animal_plains_farm::1::minecraft:sheep=minecraft:white_wool::1::15, iron_golem_farm::1::minecraft:iron_golem=minecraft:iron_ingot::1::15, swamp_farm::3::minecraft:frog=minecraft:slime_ball::1::5, nether_fortress_farm::1::minecraft:blaze=minecraft:blaze_rod::1::15, bee_hive_farm::2::minecraft:bee=minecraft:honeycomb::1::10, desert_farm::1::minecraft:husk=minecraft:sand::1::15, jungle_farm::0::minecraft:panda=minecraft:bamboo::1::20, nether_fortress_farm::0::minecraft:magma_cube=minecraft:magma_cream::1::20, jungle_farm::2::minecraft:parrot=minecraft:feather::1::10, swamp_farm::2::minecraft:frog=minecraft:slime_ball::1::10, animal_plains_farm::0::minecraft:chicken=minecraft:egg::1::20, nether_fortress_farm::3::minecraft:blaze=minecraft:blaze_rod::1::5, animal_plains_farm::1::minecraft:chicken=minecraft:egg::1::15, ocean_farm::0::minecraft:squid=minecraft:ink_sac::1::20, animal_plains_farm::1::minecraft:cow=minecraft:leather::1::15, ocean_farm::0::minecraft:cod=minecraft:cod::1::20, desert_farm::0::minecraft:husk=minecraft:sand::1::20, monster_plains_cave_farm::0::minecraft:zombie=minecraft:rotten_flesh::1::20, desert_farm::3::minecraft:husk=minecraft:sand::1::5, desert_farm::2::minecraft:rabbit=minecraft:rabbit_hide::1::10, animal_plains_farm::2::minecraft:cow=minecraft:leather::1::10, jungle_farm::3::minecraft:panda=minecraft:bamboo::1::5, ocean_farm::3::minecraft:squid=minecraft:ink_sac::1::5, jungle_farm::3::minecraft:parrot=minecraft:feather::1::5, desert_farm::3::minecraft:rabbit=minecraft:rabbit_hide::1::5, ocean_farm::1::minecraft:cod=minecraft:cod::1::15, ocean_farm::3::minecraft:cod=minecraft:cod::1::5, animal_plains_farm::3::minecraft:cow=minecraft:leather::1::5, nether_fortress_farm::3::minecraft:magma_cube=minecraft:magma_cream::1::5, desert_farm::2::minecraft:husk=minecraft:sand::1::10, bee_hive_farm::3::minecraft:bee=minecraft:honeycomb::1::5, swamp_farm::2::minecraft:slime=minecraft:slime_ball::1::10, swamp_farm::1::minecraft:frog=minecraft:slime_ball::1::15, bee_hive_farm::1::minecraft:bee=minecraft:honeycomb::1::15, swamp_farm::0::minecraft:slime=minecraft:slime_ball::1::20, desert_farm::1::minecraft:rabbit=minecraft:rabbit_hide::1::15, animal_plains_farm::0::minecraft:cow=minecraft:leather::1::20, animal_plains_farm::2::minecraft:chicken=minecraft:egg::1::10, swamp_farm::3::minecraft:slime=minecraft:slime_ball::1::5, bee_hive_farm::0::minecraft:bee=minecraft:honeycomb::1::20, jungle_farm::2::minecraft:panda=minecraft:bamboo::1::10, swamp_farm::3::minecraft:witch=minecraft:redstone::1::5, animal_plains_farm::0::minecraft:sheep=minecraft:white_wool::1::20, nether_fortress_farm::2::minecraft:blaze=minecraft:blaze_rod::1::10, nether_fortress_farm::1::minecraft:magma_cube=minecraft:magma_cream::1::15, iron_golem_farm::2::minecraft:iron_golem=minecraft:iron_ingot::1::10, monster_plains_cave_farm::3::minecraft:zombie=minecraft:rotten_flesh::1::5, desert_farm::0::minecraft:rabbit=minecraft:rabbit_hide::1::20, swamp_farm::0::minecraft:witch=minecraft:redstone::1::20, iron_golem_farm::3::minecraft:iron_golem=minecraft:iron_ingot::1::5, monster_plains_cave_farm::2::minecraft:zombie=minecraft:rotten_flesh::1::10, nether_fortress_farm::2::minecraft:magma_cube=minecraft:magma_cream::1::10, jungle_farm::0::minecraft:parrot=minecraft:feather::1::20, swamp_farm::1::minecraft:slime=minecraft:slime_ball::1::15}
+[22:34:46] [Server thread/INFO]: Loading server configs...
+[22:34:46] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:34:46] [Server thread/INFO]: Loading properties
+[22:34:46] [Server thread/INFO]: Default game type: SURVIVAL
+[22:34:46] [Server thread/INFO]: Generating keypair
+[22:34:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:34:46] [Server thread/INFO]: Using epoll channel type
+[22:34:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:34:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:34:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:34:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:34:46] [Server thread/INFO]: Preparing level "world"
+[22:35:08] [Worker-Main-1/WARN]: Config brutalbosses.json not found, recreating default
+[22:35:08] [Worker-Main-1/INFO]: Loaded config for: brutalbosses.json
+[22:35:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:35:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:12] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:12] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:13] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:13] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:14] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:14] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:15] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:15] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:16] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:16] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:18] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:18] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:35:19] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[22:35:20] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[22:35:20] [Server thread/INFO]: Time elapsed: 11296 ms
+[22:35:20] [Server thread/INFO]: Done (33.482s)! For help, type "help"
+[22:35:20] [Server thread/INFO]: Register Easy Mob Farm Mod Recipe Manager ...
+[22:43:10] [Server thread/INFO]: MefistSama[/100.116.214.11:50496] logged in with entity id 21 at (2.5, 65.0, 4.5)
+[22:43:10] [Server thread/INFO]: MefistSama joined the game
