@@ -463,3 +463,13 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [22:35:20] [Server thread/INFO]: Register Easy Mob Farm Mod Recipe Manager ...
 [22:43:10] [Server thread/INFO]: MefistSama[/100.116.214.11:50496] logged in with entity id 21 at (2.5, 65.0, 4.5)
 [22:43:10] [Server thread/INFO]: MefistSama joined the game
+[22:45:32] [Server thread/INFO]: MefistSama has made the advancement [Mob Farm Mastery]
+[22:45:45] [Server thread/INFO]: Expected float
+[22:45:45] [Server thread/INFO]: time set dat<--[HERE]
+[22:45:50] [Server thread/INFO]: Set the time to 1000
+[22:47:09] [Thread-26/INFO]: [MefistSama: Set the skin of MefistSama to Vegetta777.]
+[22:50:43] [Server thread/INFO]: VEGETTA777 has made the advancement [Stone Age]
+[22:50:48] [Server thread/INFO]: VEGETTA777 has made the advancement [Getting an Upgrade]
+[22:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[22:53:23] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/2622, l='ServerLevel[world]', x=221.50, y=-51.00, z=-497.50] died: Corvin the Rotten suffocated in a wall
+[22:54:37] [Thread-34/INFO]: [VEGETTA777: Set the skin of MefistSama to Kingcobra52.]
