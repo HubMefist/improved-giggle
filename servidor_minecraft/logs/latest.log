@@ -1062,3 +1062,55 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [20:32:23] [Server thread/WARN]: MefistSama moved too quickly! 7.429330667790111,0.02442408821369213,-6.7948780718471085
 [20:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
 [20:33:28] [Server thread/INFO]: XxNeitanxX was doomed to fall by Moleclaw
+[20:34:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:34:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[20:36:41] [Server thread/INFO]: MefistSama lost connection: Disconnected
+[20:36:41] [Server thread/INFO]: Willyrex left the game
+[20:37:04] [Server thread/INFO]: XxNeitanxX lost connection: Disconnected
+[20:37:04] [Server thread/INFO]: XxNeitanxX left the game
+[20:37:12] [Server thread/INFO]: XxNeitanxX[/100.93.249.82:53466] logged in with entity id 16532 at (81.79701915197887, 65.0, -164.23002897094676)
+[20:37:12] [Server thread/INFO]: XxNeitanxX joined the game
+[20:38:27] [Server thread/INFO]: MefistSama[/100.116.214.11:52760] logged in with entity id 17017 at (966.5880666164949, 63.0, -943.2703828783468)
+[20:38:27] [Server thread/INFO]: Willyrex joined the game
+[20:39:04] [Server thread/INFO]: XxNeitanxX lost connection: Disconnected
+[20:39:04] [Server thread/INFO]: XxNeitanxX left the game
+[20:39:06] [Server thread/INFO]: Willyrex has made the advancement [Sweet Dreams]
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:11] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:39:18] [Server thread/INFO]: XxNeitanxX[/100.93.249.82:53486] logged in with entity id 17658 at (112.41836127808487, 24.0, -177.94300091517042)
+[20:39:18] [Server thread/INFO]: XxNeitanxX joined the game
+[20:39:22] [Server thread/INFO]: [Not Secure] <Willyrex> sadf
+[20:39:33] [Server thread/INFO]: [Not Secure] <XxNeitanxX> sdas
+[20:41:08] [Server thread/INFO]: Willyrex has made the advancement [Acquire Hardware]
+[20:41:11] [Server thread/INFO]: XxNeitanxX has made the advancement [Suit Up]
+[20:42:55] [Server thread/INFO]: Willyrex was killed while trying to hurt Skeleton
+[20:44:00] [Server thread/INFO]: XxNeitanxX has made the advancement [Diamonds!]
+[20:44:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:44:44] [Server thread/INFO]: keepinventory true<--[HERE]
+[20:44:55] [Server thread/INFO]: Made MefistSama a server operator
+[20:46:01] [Server thread/INFO]: [Willyrex: Played sound minecraft:entity.creeper.hurt to XxNeitanxX]
+[20:46:10] [Server thread/INFO]: [Willyrex: Played sound minecraft:entity.creeper.hurt to Willyrex]
+[20:46:18] [Server thread/INFO]: [Willyrex: Played sound minecraft:entity.creeper.primed to Willyrex]
+[20:46:25] [Server thread/INFO]: [Willyrex: Played sound minecraft:entity.creeper.primed to 2 players]
+[20:47:21] [Server thread/INFO]: [Willyrex: Gamerule keepInventory is now set to: true]
+[20:47:29] [Server thread/INFO]: [Not Secure] <Willyrex> muchacho ?V.
+[20:48:53] [Server thread/INFO]: Willyrex has made the advancement [Suit Up]
+[20:51:01] [Server thread/INFO]: [Willyrex: Played sound minecraft:entity.creeper.primed to 2 players]
+[20:53:12] [Server thread/INFO]: XxNeitanxX has made the advancement [Not Today, Thank You]
+[20:53:49] [Server thread/INFO]: Willyrex has made the advancement [Diamonds!]
