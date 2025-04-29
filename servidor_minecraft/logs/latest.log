@@ -430,3 +430,10 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01:25:46] [Server thread/WARN]: handleDisconnection() called twice
 [01:36:10] [Server thread/INFO]: XxNeitanxX[/100.93.249.82:50272] logged in with entity id 3234 at (-0.5, 66.0, -5.5)
 [01:36:10] [Server thread/INFO]: XxNeitanxX joined the game
+[01:37:49] [Thread-37/INFO]: [XxNeitanxX: Set the skin of XxNeitanxX to xxneitanxx.]
+[01:39:35] [Server thread/INFO]: XxNeitanxX lost connection: Disconnected
+[01:39:35] [Server thread/INFO]: XxNeitanxX left the game
+[01:40:55] [Server thread/INFO]: XxNeitanxX[/100.93.249.82:58352] logged in with entity id 3880 at (-7.955941844030959, 67.0, -31.71090297169075)
+[01:40:55] [Server thread/INFO]: XxNeitanxX joined the game
+[01:46:12] [Server thread/INFO]: XxNeitanxX has made the advancement [Mob Farm Mastery]
+[01:46:19] [Server thread/INFO]: XxNeitanxX has made the advancement [Sweet Dreams]
